@@ -9,7 +9,7 @@ Based on the needs of the marketing agency, the following is a refactoring of th
 
 ## Criteria
 
-The elements of the HTML and CSS style sheet were reorganized to meet the scenario-oriented criteria as set forth by the cient.
+The elements of the HTML and CSS style sheet were reorganized to meet the scenario-oriented criteria as set forth by the client.
 The criteria is as follows:
 
 * GIVEN a webpage meets accessibility standards
