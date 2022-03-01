@@ -2,6 +2,11 @@
 
 Based on the needs of the marketing agency, the following is a refactoring of the code for Horiseon website. 
 
+## User Story
+   * AS A marketing agency
+   * I WANT a codebase that follows accessibility standards
+   * SO THAT our own site is optimized for search engines
+
 ## Criteria
 
 The elements of the HTML and CSS style sheet were reorganized to meet the scenario-oriented criteria as set forth by the cient.
