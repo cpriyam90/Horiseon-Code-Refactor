@@ -24,7 +24,7 @@ The criteria is as follows:
 * WHEN I view the title element
 * THEN I find a concise, descriptive title
 
-Additionally, the CSS style sheet was edited to include comments, and the structure was rearranged to match the HTMl elements. The links were checked for functionality as well.
+Additionally, the CSS style sheet was edited to include comments, and the structure was rearranged to match the HTML elements. The links were checked for functionality as well.
 
 ## Usage
 
